@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danialbw
-- 👀 I’m interested in mobile programing
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Python programing
+- 🌱 I’m currently learning Python
 - 📫 Danial.baghei@gmail.com
 
 <!---
