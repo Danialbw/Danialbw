@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Danialbw
-- 👀 I’m interested in Mobile programing
-- 🌱 I’m currently learning Flutter
+- 👀 Mobile Developer
 - 📫 Danial.baghei@gmail.com
 
 <!---
